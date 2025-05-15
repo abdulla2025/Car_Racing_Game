@@ -1,4 +1,11 @@
-# Car_Racing_Game
-Made by 
-Abdulla Al Noman &
-MD. Nazmus Sadat
+# 🏎️ Car Racing Game
+
+For the **CSE423 - Computer Graphics** course.
+
+## 👨‍💻 Authors
+
+* Abdulla Al Noman
+* MD. Nazmus Sadat
+
+
+
